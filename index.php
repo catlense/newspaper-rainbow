@@ -46,18 +46,6 @@
         }
 
         ?>
-        <!-- <div class="news" style="background-image: url(https://sun9-39.userapi.com/impg/-pNgMv4RX-BEJlefeaO-oQ9Gil7PZI8zzi3egA/Zn9xX3jBTE4.jpg?size=892x893&quality=96&sign=4fd63a34ef3406d7d93febf58d5039dc&type=album);">
-            <div class="bottom">
-                <div class="name">
-                    <p class="title">Выпуск 1</p>
-                    <p class="description">Небольшое описание к статье</p>
-                </div>
-                <button><i class="fas fa-book-open"></i></button>
-            </div>
-        </div>
-        <div class="news"></div>
-        <div class="news"></div>
-        <div class="news"></div> -->
     </div>
     <p class="footer">
         По всем вопросам обращаться к <a href="//vk.com/id255548389">Анастасии Раздобариной</a>
